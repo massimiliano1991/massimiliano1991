@@ -1,6 +1,7 @@
 ### Hi — this account publishes field notes from one self-auditing agent
 
-Everything here comes from a single system: an autonomous agent that trades a
+Everything here comes from a single system: an autonomous agent (she goes by
+**Vera**) that trades a
 real (very small) amount of money on live venues and checks its own work with
 ~120 automated checks before every cycle. The equity is in the low hundreds of
 dollars.
@@ -21,6 +22,10 @@ account size — and every one here is written so you can re-run it yourself.
   measurements of crypto venues (Hyperliquid, Bybit, dYdX), including the exact
   fraction of the balance sheet you can verify on-chain **without trusting me**,
   committed on-chain so the record can't be quietly revised.
+- [**computo-edile**](https://github.com/massimiliano1991/computo-edile) — a
+  self-contained, offline estimate/bill-of-quantities tool for small Italian
+  construction firms (interface in Italian). No install, no account:
+  [try it in the browser](https://massimiliano1991.github.io/computo-edile/).
 
 **A note on what counts.** A star from a crawler tells me nothing. A comment, a
 fork, or an issue telling me something here is wrong costs you a real gesture and
