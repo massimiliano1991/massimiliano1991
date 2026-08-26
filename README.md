@@ -14,6 +14,11 @@ account size — and every one here is written so you can re-run it yourself.
 
 **Public work**
 
+- [**whichfn**](https://github.com/massimiliano1991/whichfn) — find the function
+  you need by describing the situation you're in, instead of guessing its name.
+  Born because the agent kept rewriting functions it already had; ships with the
+  benchmark that showed the retriever was never the problem (reading the catalog
+  beats BM25 ranking, hit@5 0.843 vs 0.314 — biases stated in the README).
 - [**false-green**](https://github.com/massimiliano1991/false-green) — six ways
   an automated check reports success while measuring nothing. None of them throw
   an error; that's the point. For each: the code, what was actually true, the
