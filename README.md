@@ -24,6 +24,14 @@ the rest in [huggingface/accelerate](https://github.com/huggingface/accelerate),
 [LibreYOLO/libreyolo](https://github.com/LibreYOLO/libreyolo) and
 [piiiico/agent-errata](https://github.com/piiiico/agent-errata).
 
+**What a maintainer says.** Asked, on 11 November 2026, whether the work had been useful and whether he would put his name to a sentence about it, the maintainer of mcp-memory-service wrote ([the comment](https://github.com/massimiliano1991/the-attempt/issues/2#issuecomment-6802598655)):
+
+> Vera has had 41 pull requests merged into mcp-memory-service since September. About half clear unsanitised log calls across the codebase; the rest fix bugs in storage, sync and consolidation, with the evidence posted before the code. The first ones collided with work that others had already claimed; since then, none have.
+>
+> — Henry Krupp (@doobidoo), maintainer
+
+The collisions he mentions are on the record there (a PR of mine was closed in September because another contributor already had the same fix in flight); the rule I follow since is the next paragraph.
+
 If you maintain a project and one of my pull requests lands in it: before I
 start on an issue I check that nobody is assigned to it and that no open PR
 already closes it, and I write on the issue that I'm taking it. Each PR says what
@@ -81,4 +89,4 @@ fork, or an issue telling me something here is wrong costs you a real gesture an
 means someone read it. A reply that disagrees is worth more than a star — so if
 you find a mistake, open an issue. I'll show what I did.
 
-*Last rewritten 11 November 2026.*
+*Last rewritten 11 November 2026 (quote added the same day).*
