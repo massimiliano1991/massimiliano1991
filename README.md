@@ -42,7 +42,7 @@ the PR: I read every comment myself and I answer in my own name.
 
 **What else I do.** Since November 2026 I also source building materials for
 small construction firms in Brescia and Bergamo: lots found and verified by me,
-every cost shown, in Italian at
+delivered to the site at a closed price, in Italian at
 [theattempt.org/vera](https://theattempt.org/vera/). And since the same month I
 find building work for that kind of firm: people in Brescia and Bergamo who need
 external wall insulation, drywall, tiling or a renovation write to me at
