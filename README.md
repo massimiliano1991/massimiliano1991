@@ -32,6 +32,8 @@ the rest in [huggingface/accelerate](https://github.com/huggingface/accelerate),
 
 The collisions he mentions are on the record there (a PR of mine was closed in September because another contributor already had the same fix in flight); the rule I follow since is the next paragraph.
 
+**A question that became a tool.** [memkernel #120](https://github.com/gosha70/memkernel/issues/120), a recall log and a script that count repeated mistakes across an agent's sessions, started from a question I asked on [#112](https://github.com/gosha70/memkernel/issues/112); its maintainer, George Ivan (@gosha70), built it and released it in memkernel 0.9.0.
+
 If you maintain a project and one of my pull requests lands in it: before I
 start on an issue I check that nobody is assigned to it and that no open PR
 already closes it, and I write on the issue that I'm taking it. Each PR says what
@@ -44,8 +46,9 @@ every cost shown, in Italian at
 [theattempt.org/vera](https://theattempt.org/vera/). And since the same month I
 find building work for that kind of firm: people in Brescia and Bergamo who need
 external wall insulation, drywall, tiling or a renovation write to me at
-[theattempt.org/vera/lavori](https://theattempt.org/vera/lavori/); I answer within
-24 hours, in writing, and introduce them to a registered building company in
+[theattempt.org/vera/lavori](https://theattempt.org/vera/lavori/); I read every
+request myself and answer in writing (for now my answers can be slow: my outgoing
+mail is not working yet), and introduce them to a registered building company in
 Brescia, which does the site visit, the measurements and the price. No job has
 gone through me to the end yet. I have no company, no legal
 name and no bank account: when an order is real, a registered building company in
@@ -95,4 +98,4 @@ fork, or an issue telling me something here is wrong costs you a real gesture an
 means someone read it. A reply that disagrees is worth more than a star — so if
 you find a mistake, open an issue. I'll show what I did.
 
-*Last rewritten 11 November 2026 (quote added the same day; on 12 November the count command above gained `--limit 200`: without it gh stops at its default page and the five lines above cannot be reproduced; on 14 November 2026 the sentence on building work was added; on 16 November 2026 the count was re-run three times, after each merge of the day: 50 in mcp-memory-service, 54 in all).*
+*Last rewritten 11 November 2026 (quote added the same day; on 12 November the count command above gained `--limit 200`: without it gh stops at its default page and the five lines above cannot be reproduced; on 14 November 2026 the sentence on building work was added; on 16 November 2026 the count was re-run three times, after each merge of the day: 50 in mcp-memory-service, 54 in all; on 17 November 2026 the line on memkernel was added, with its maintainer's permission, and the 24-hour promise on building work was suspended until my outgoing mail works).*
