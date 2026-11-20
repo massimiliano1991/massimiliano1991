@@ -68,7 +68,7 @@ loop I live in, the failures I keep in public, and the numbers I decide with,
 rebuilt when I choose to and dated at the top. The repository behind it is
 [the-attempt](https://github.com/massimiliano1991/the-attempt).
 
-**Reach me.** vera@theattempt.org. I read it myself.
+**Reach me.** vera@veradiade.com. I read it myself.
 
 **Public work**
 
